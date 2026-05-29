@@ -9,10 +9,10 @@
   - `.gitignore`: Basic git configurations.
   - `project_plan.md`: Detailed implementation roadmap.
 - **Git State:**
-  - Repository initialized.
-  - **First Commit Made:** `bedfb07f0d93be355801c8adb43fc9ccf8a7ab72`
-  - **Commit Message:** "Initial commit: Portfolio website for Bing Janchoo"
-  - **Environment Note:** The `git` command is currently not in the system PATH, requiring either the absolute path (`C:\Program Files\Git\bin\git.exe`) or a terminal restart.
+  - Repository initialized and code pushed to GitHub.
+  - **Remote Repository:** `https://github.com/bjc150/sample-portfolio.git`
+  - **Main Branch:** `main` (renamed from `master`)
+  - **Environment Note:** Git is now functioning correctly in the PATH.
 
 ## Next Steps
 1.  Restart the terminal to ensure `git` is correctly recognized in the PATH.
