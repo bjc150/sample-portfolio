@@ -19,9 +19,9 @@ A professional, responsive portfolio website for Bing Janchoo, Fixed Income Fund
 
 ## 📁 Project Structure
 
-- `index.html`: The main landing page.
-- `styles.css`: All styling and theme configurations.
-- `script.js`: Interactive elements and animations.
+- `docs/index.html`: The main landing page.
+- `docs/styles.css`: All styling and theme configurations.
+- `docs/script.js`: Interactive elements and animations.
 - `project_plan.md`: The development roadmap.
 - `project_summary.md`: A summary of the project's history and current status.
 
@@ -36,14 +36,14 @@ A professional, responsive portfolio website for Bing Janchoo, Fixed Income Fund
    cd sample-portfolio
    ```
 3. **Open `index.html`:**
-   Simply open the `index.html` file in any modern web browser.
+   Simply open the `docs/index.html` file in any modern web browser.
 
 ## 🌐 Deployment
 
 The site is hosted on GitHub Pages. To deploy your own version:
 1. Push the code to a GitHub repository.
 2. Go to **Settings > Pages**.
-3. Select the `main` branch and `/ (root)` folder.
+3. Select the `main` branch and `/docs` folder.
 4. Click **Save**.
 
 ## 📄 License

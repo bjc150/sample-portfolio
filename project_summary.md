@@ -3,18 +3,18 @@
 ## Current Status
 - **Goal:** Build a professional portfolio website for Bing Janchoo (Fixed Income Fund Manager).
 - **Files Created:**
-  - `index.html`: Core structure with sections for Hero, Projects, and Contact.
-  - `styles.css`: Dark-themed styling using 'Roboto Mono'.
-  - `script.js`: Placeholder for interactivity.
+  - `docs/index.html`: Core structure (served from /docs for GitHub Pages).
+  - `docs/styles.css`: Dark-themed styling.
+  - `docs/script.js`: Interactivity and animations.
   - `.gitignore`: Basic git configurations.
   - `project_plan.md`: Detailed implementation roadmap.
+  - `README.md`: Project documentation.
 - **Git State:**
-  - Repository initialized and code pushed to GitHub.
+  - Repository restructured and code pushed to GitHub.
   - **Remote Repository:** `https://github.com/bjc150/sample-portfolio.git`
-  - **Main Branch:** `main` (renamed from `master`)
-  - **Environment Note:** Git is now functioning correctly in the PATH.
+  - **Main Branch:** `main`
 
 ## Next Steps
-1.  Restart the terminal to ensure `git` is correctly recognized in the PATH.
-2.  Verify `git status` works without the absolute path.
-3.  Continue implementation based on `project_plan.md` or prepare to push to a remote repository.
+1.  Verify GitHub Pages is correctly serving from the `/docs` folder.
+2.  Review and update project content (descriptions, links) as needed.
+3.  Add high-quality visuals or charts for the projects.
