@@ -1,0 +1,7 @@
+# .gitignore
+.DS_Store
+node_modules/
+.env
+.gemini/
+memory/
+plans/
